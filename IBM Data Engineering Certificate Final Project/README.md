@@ -14,8 +14,8 @@ Capstone Projects included:
 
 1. OLTP Database
 2. NoSQL Databases
-1. Data Warehouse Design & Setup
-1. Data Warehousing Reporting
+1. Data Warehouse Design & Setup (pt. 1)
+1. Data Warehousing Reporting (pt. 2)
 1. Dashboard Creation With Google Looker
 1. ETL
 1. Pipelines using Apahce Airflow
