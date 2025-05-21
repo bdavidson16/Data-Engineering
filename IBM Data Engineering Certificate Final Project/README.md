@@ -16,7 +16,7 @@ Capstone Projects included:
 2. NoSQL Databases
 1. Data Warehouse Design & Setup
 1. Data Warehousing Reporting
-1. Dashboard Creationg using Google Looker
+1. Dashboard Creation With Google Looker
 1. ETL
 1. Pipelines using Apahce Airflow
 1. SparkML Ops
